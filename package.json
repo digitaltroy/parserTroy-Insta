@@ -1,0 +1,33 @@
+{
+  "name": "parsertroy",
+  "version": "1.0.0",
+  "description": "Использование Selenium 2.0 — WebDriver для проекта Digitaltroy",
+  "main": "index.js",
+  "dependencies": {
+    "xvfb": "^0.2.3",
+    "selenium-webdriver": "^3.6.0"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-if": "^2.0.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "chromedriver": "^2.37.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:digitaltroy/parserTroy-Insta.git"
+  },
+  "author": "Danilov Stanislav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitaltroy/parserTroy-Insta/issues"
+  },
+  "homepage": "https://github.com/digitaltroy/parserTroy-Insta#README"
+}
